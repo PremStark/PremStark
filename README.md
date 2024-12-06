@@ -1,4 +1,4 @@
-# <img src="./shaking-hand.gif" width="50px" alt="shaking hand"> Hi, I’m **Prem Raj.S**
+# <img src="https://raw.githubusercontent.com/your-username/your-repo/main/shaking-hand.gif" width="50px" alt="shaking hand"> Hi, I’m **Prem Raj.S**
 
 🎓 Final-year Computer Science Engineering student at **BMS Institute of Technology and Management**.  
 
