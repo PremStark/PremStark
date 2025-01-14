@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Prem Raj.S**
+# 👋 Hi, I’m **Prem Raj S**
 
 🎓 Final-year Computer Science Engineering student at **BMS Institute of Technology and Management**.  
 
