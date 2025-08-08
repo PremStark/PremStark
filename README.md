@@ -1,19 +1,33 @@
-# 👋 Hi, I’m **Prem Raj S**
+# 👋 Hi, I’m Prem Raj S
 
-🎓 Final-year Computer Science Engineering student at **BMS Institute of Technology and Management**.  
+A Computer Science Engineering graduate with a passion for building innovative applications. I'm actively exploring opportunities in web development, data analytics, and software engineering.
 
-## 👀 Interests  
-- **Web Development**, **Data Analytics**, and **Software Engineering**.  
-- Building innovative, scalable full-stack applications.  
+- **Email**: [premraj4044@gmail.com](mailto:premraj4044@gmail.com)
+- **LinkedIn**: [LinkedIn-Prem Raj.S](https://www.linkedin.com/in/prem-raj-s-7b233624a)
 
-## 🚀 Projects  
-### [SumZ](https://github.com/PremStark/SumZ)  
-An **article summarizer** using **React.js**, **Redux Toolkit**, and **OpenAI's GPT model**.  
+## 🛠️ Tech Stack
 
-### [Aora](https://github.com/PremStark/Aora)  
-A **media-sharing app** built with **React Native** and **Expo CLI**, featuring animations and secure authentication.  
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 
-## 💻 Skills  
-- **Languages**: C++, Python, JavaScript  
-- **Frameworks**: React, React Native  
-- **Tools**: Git, Redux Toolkit  
+- **Languages:** Python, C++, JavaScript, C, SQL, HTML, CSS
+- **Frameworks & Libraries:** React.js, React Native, Tailwind CSS
+- **Tools:** Linux, Figma, Power BI, Tableau
+
+## 💼 Experience
+
+**Software Developer Intern | Rayvector Technologies** (Feb 2025 - May 2025)
+- Collaborated in an agile team to design, implement, and test software solutions. My work involved using the GStreamer framework for developing streaming pipelines.
+
+**Website Developer Intern | Lorman Integrated Food Evolution** (Feb 2024)
+- Designed and developed responsive web interfaces using React.js, applying UX/UI principles to improve usability.
+
+## 🚀 My Projects
+
+### [SumZ](https://github.com/PremStark/SumZ)
+An AI-powered article summarizer that uses React.js, Redux Toolkit, and the OpenAI GPT model to deliver efficient summaries.
+
+### [Aora](https://github.com/PremStark/Aora)
+A media-sharing mobile app built with React Native and Expo CLI. It features secure authentication, full-text search, and a responsive design.
+
+### [Blinkit Sales Data Analysis](http://github.com/PremStark/Blinkit-Sales-Data-Analysis)
+An interactive Power BI dashboard designed to analyze and visualize Blinkit's sales data. The project provides key insights into performance across various dimensions, including item type, outlet location, and sales distribution.
