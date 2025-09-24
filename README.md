@@ -12,10 +12,6 @@
   I'm actively exploring opportunities in web development, data analytics, and software engineering.
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/PremStark/count.svg" alt="Profile Visitor Counter" />
-</p>
-
 </div>
 
 ---
