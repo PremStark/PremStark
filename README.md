@@ -15,7 +15,7 @@ A Computer Science Engineering graduate with a passion for building innovative a
 
 ## 💼 Experience
 
-**Software Developer Intern | Rayvector Technologies** (Feb 2025 - June 2025)
+**Software Developer Intern | Rayvector Technologies** (Feb 2025 - Jun 2025)
 - Collaborated in an agile team to design, implement, and test software solutions. My work involved using the GStreamer framework for developing streaming pipelines.
 
 **Website Developer Intern | Lorman Integrated Food Evolution** (Feb 2024)
