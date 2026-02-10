@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Prem Raj S
 
 <a href="https://github.com/PremStark">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Software+Developer;Data+Analyst+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Software+Developer" alt="Typing SVG" />
 </a>
 
 <p align="center">
