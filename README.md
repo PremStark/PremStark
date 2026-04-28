@@ -8,8 +8,6 @@
 
 <p align="center">
   <b>Computer Science Engineering Graduate</b> with a focus on building intelligent, scalable web applications.
-  <br />
-  Currently specializing in <b>React Ecosystems, AI Integration, and Serverless Cloud Architectures.</b>
 </p>
 
 </div>
@@ -21,7 +19,6 @@
 <p align="left">
 <a href="mailto:premraj4044@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/prem-raj-s-7b233624a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/PremStark" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
@@ -47,9 +44,18 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
+#### 📊 Data Science & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
+</p>
+
 #### 🔧 Tools & Cloud Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" alt="Power BI" />
