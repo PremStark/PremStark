@@ -32,7 +32,7 @@
 
 #### 🚀 Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express" />
 </p>
 
 
