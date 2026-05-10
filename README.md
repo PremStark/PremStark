@@ -1,74 +1,55 @@
-<div align="center">
+# 🚀 Prem Raj S | Full-Stack Developer & AI Enthusiast
 
-# 👋 Hi, I’m Prem Raj S
+### 👨‍💻 Professional Profile
+I am a **Computer Science Engineering Graduate** with a strong foundation in **Agentic Workflows**, **LLM Fine-Tuning**, and **Real-Time Systems**. I specialize in building scalable web applications and optimizing intelligent models.
 
-<a href="https://github.com/PremStark">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Software+Developer" alt="Typing SVG" />
-</a>
-
-<p align="center">
-  <b>Computer Science Engineering Graduate</b> with a focus on building intelligent, scalable web applications.
-</p>
-
-</div>
+- 🎓 **B.E. in Computer Science** from BMS Institute of Technology.
+- 🔬 **IEEE Published Author** on QLoRA fine-tuning for solving DSA problems.
+- 🏗️ **Software Intern** experience specializing in C++, GStreamer, and React.js.
 
 ---
 
-### 🌐 Connect with Me
+### 🛠️ Technical Arsenal
 
-<p align="left">
-<a href="mailto:premraj4044@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/prem-raj-s-7b233624a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+#### 📊 Data Analytics & AI
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 
----
+#### 🌐 Backend & Servers
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### 🛠️ My Tech Stack
+#### 🎨 Frontend & Mobile
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### 💻 Languages & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,postgres,html,css" />
-</p>
-
-#### 🚀 Frameworks & Libraries
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express" />
-</p>
-
-
-#### 🔧 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,figma" />
-</p>
-
----
-
-### 💼 Professional Experience
-
-**Software Developer Intern | Rayvector Technologies** (Feb 2025 - Jun 2025)
-- Developed complex streaming pipelines using the **GStreamer** framework.
-- Worked in an agile environment to design and implement efficient software solutions.
-
-**Website Developer Intern | Lorman Integrated Food Evolution** (Feb 2024)
-- Built responsive user interfaces with **React.js**.
-- Optimized web accessibility and usability through modern UX/UI standards.
+#### ⚙️ Infrastructure & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+### 💼 Professional Journey
 
-#### 🏗️ [Loom](https://github.com/PremStark/Loom)
-An AI-powered design environment that transforms 2D floor plans into photorealistic 3D architectural renders.
-- **Backend:** Completely serverless via **Puter.js** (Filesystem, KV Storage, and Hosting).
-- **Core AI:** Integrated **Gemini AI** for high-fidelity image-to-image generation.
-- **Frontend:** Built with **React** and **React Router v7** using advanced state management.
+**Rayvector Technologies** | *Software Developer Intern*
+- Engineered real-time monitoring systems in **C++** using the **GStreamer** framework.
+- Optimized data processing efficiency in an Agile development environment.
 
-#### 📱 [Aora](https://github.com/PremStark/Aora)
-A media-sharing mobile application built with React Native and Expo.
-- Features secure authentication, full-text search, and cloud-based media management via Appwrite.
-
-#### 📊 [Blinkit Sales Analysis](https://github.com/PremStark/Blinkit-Sales-Data-Analysis)
-Interactive data visualization dashboard for analyzing retail performance.
-- Built using **Power BI** to provide deep insights into sales distribution and outlet performance.
+**Lorman Integrated Food Evolution** | *Website Developer Intern*
+- Developed responsive web interfaces using **React.js** and **UX/UI** principles.
 
 ---
+
+### 🔬 Research Spotlight
+**[IEEE] Fine-Tuning of Large Language Models for Solving DSA Problems Using QLoRA**
+- Published research on creating `finetuned-leetcode-CodeLlama-7b`.
+- Focused on drastically reducing memory and computational requirements for LL
