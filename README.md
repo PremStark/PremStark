@@ -1,4 +1,4 @@
-# 🚀 Prem Raj S | Full-Stack Developer & AI Enthusiast
+# 🚀 Prem Raj S | Software Developer & AI Enthusiast
 
 ### 👨‍💻 Professional Profile
 I am a **Computer Science Engineering Graduate** with a strong foundation in **Agentic Workflows**, **LLM Fine-Tuning**, and **Real-Time Systems**. I specialize in building scalable web applications and optimizing intelligent models.
