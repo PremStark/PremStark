@@ -24,12 +24,13 @@ I am a **Computer Science Engineering Graduate** with a strong foundation in **A
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-#### 🎨 Frontend & Mobile
+#### 🎨 Frontend, Mobile & Design Systems
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 
-#### ⚙️ Infrastructure & Tools
+#### ⚙️ Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -51,4 +52,4 @@ I am a **Computer Science Engineering Graduate** with a strong foundation in **A
 ### 🔬 Research Spotlight
 **[IEEE] Fine-Tuning of Large Language Models for Solving DSA Problems Using QLoRA**
 - Published research on creating `finetuned-leetcode-CodeLlama-7b`.
-- Focused on drastically reducing memory and computational requirements for LL
+- Focused on drastically reducing memory and computational requirements for LLMs.
