@@ -1,8 +1,9 @@
 # 🚀 Prem Raj S | Software Developer & AI Enthusiast
 
 ### 👨‍💻 Professional Profile
-I am a **Computer Science Engineering Graduate** with a learning focus in **Machine Learning (ML)**, **Deep Learning (DL)**, and **Real-Time Systems**. I specialize in building scalable web applications, designing neural architectures, and optimizing intelligent models.
+I am a **Computer Science Engineering Graduate** currently pursuing **M.Tech in Computer Science at RV College of Engineering (RVCE)**, with a learning focus in **Machine Learning (ML)**, **Deep Learning (DL)**, and **Real-Time Systems**. I specialize in building scalable web applications, designing neural architectures, and optimizing intelligent models.
 
+- 🎓 **M.Tech in Computer Science** at RV College of Engineering (RVCE).
 - 🎓 **B.E. in Computer Science** from BMS Institute of Technology.
 - 🔬 **IEEE Published Author** on QLoRA fine-tuning for solving DSA problems.
 - 🏗️ **Software Intern** experience specializing in C++, GStreamer, and React.js.
